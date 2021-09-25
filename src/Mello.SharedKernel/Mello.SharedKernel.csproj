@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
+    <PackageId>Mello.SharedKernel</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Michael Mello</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
